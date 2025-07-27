@@ -7,11 +7,11 @@ This project focuses on building a machine learning model to detect **malicious 
 ## 📂 Dataset
 
 - The dataset originally contained **4 classes**:
-  - `benign` (renamed to `safe`)
+  - `benign` (renamed to `ham`)
   - `phishing`, `malware`, `defacement` (all merged into `spam`)
 
 - Final labels:
-  - `safe` (label: 0)
+  - `ham` (label: 0)
   - `spam` (label: 1)
 
 ### Features Used:
