@@ -24,12 +24,12 @@ This project focuses on building a machine learning model to detect **malicious 
 
 ## 📊 Model Performance
 
-Three machine learning models were evaluated:
+Two machine learning models were evaluated:
 
 | Model                | Accuracy |
 |---------------------|----------|
-| Random Forest        | 93.75%   |
-| XGBoost              | 92.13%   |
-| K-Nearest Neighbors  | 91.88%   |
+| Random Forest        | 92.15%   |
+| XGBoost              | 91.59%   |
 
-🔹 **Random Forest** was selected as the final model due to its highest accuracy.
+
+🔹 **Random Forest** was selected as the final model due to its better accuracy.
